@@ -1,7 +1,5 @@
 provider "aws" {
     region = "us-east-1"
-    AWS_ACCESS_KEY_ID: "XXXXXXXXXXXXX"
-    AWS_SECRET_ACCESS_KEY: "XXXXXXXXXXXXXXXX"
   
 }
 
